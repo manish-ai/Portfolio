@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manish-ai/Portfolio.git/static/css/main.5facb584.chunk.css",
+    "main.js": "/manish-ai/Portfolio.git/static/js/main.1bf70c72.chunk.js",
+    "main.js.map": "/manish-ai/Portfolio.git/static/js/main.1bf70c72.chunk.js.map",
+    "runtime-main.js": "/manish-ai/Portfolio.git/static/js/runtime-main.fb7c27f2.js",
+    "runtime-main.js.map": "/manish-ai/Portfolio.git/static/js/runtime-main.fb7c27f2.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/manish-ai/Portfolio.git/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/manish-ai/Portfolio.git/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/manish-ai/Portfolio.git/index.html",
+    "precache-manifest.e6241d6d67292793f4428b8319c941c9.js": "/manish-ai/Portfolio.git/precache-manifest.e6241d6d67292793f4428b8319c941c9.js",
+    "service-worker.js": "/manish-ai/Portfolio.git/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/manish-ai/Portfolio.git/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/manish-ai/Portfolio.git/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb7c27f2.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.1bf70c72.chunk.js"
+  ]
+}
