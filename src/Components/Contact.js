@@ -15,7 +15,7 @@ const Contact = ({ data }) => {
       e.preventDefault()
 
       fetch(scriptURL, { method: 'POST', body: new FormData(form) })
-         .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+         .then(response => alert("Submitted Successfully..!"))
          .catch(error => console.error('Error!', error.message))
       setName("")
       setMessage("")
@@ -47,7 +47,7 @@ const Contact = ({ data }) => {
          <div className="row">
             <div className="eight columns">
 
-               <form id="contactForm" method="post" autocomplete="off" name="google-sheet" onSubmit={onSumbit}>
+               <form id="contactForm" method="post" autocomplete="off" name="google-sheet" onSubmit={onSumbit} netlify>
                   <fieldset>
 
                      <div>

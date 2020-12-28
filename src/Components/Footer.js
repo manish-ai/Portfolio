@@ -23,7 +23,7 @@ class Footer extends Component {
             </ul>
 
             <ul className="copyright">
-              <li>&copy;  Copyright 2017 Manish</li>
+              <li>&copy;  Copyright 2017 Manish N</li>
               <li>Design by <a target="_blank" title="Styleshout" href="">Manish N</a></li>
             </ul>
 

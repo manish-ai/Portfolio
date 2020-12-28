@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Manish N",
-    "occupation": "Student and Intern",
-    "description": "ReactJS Developer, Front-End web Developer ",
+    "occupation": "Engineering Student and Intern",
+    "description": "Web Developer, Software Developer ",
     "image": "manish4.png",
     "bio": "My name is Manish, I'm a  ReactJS Developer. Currently Studing Engineering ",
     "contactmessage": "Get in touch with me .",
@@ -10,7 +10,7 @@
     "phone": "+91 9606252550",
     "address": {
       "street": "KG Main Road",
-      "city": "Bangalore",
+      "city": "Bengaluru",
       "state": "Karnataka",
       "zip": "560098"
     },
@@ -51,10 +51,10 @@
     ],
     "work": [
       {
-        "company": "DataIgnyte",
+        "company": "DataIgnyte Technologies",
         "title": "Web Developer - Intern",
         "years": "April 2020 - Present",
-        "description": "Developing Webpages using modern tools like ReactJS"
+        "description": "Developing Webpages using modern tools like ReactJS, Redux"
       }
     ],
     "skills": [
@@ -87,6 +87,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Foody - Food Delivery Application",
+        "category": "Online Food Devlivery web application using React, Redux, NodeJS, Express and MongoDB",
+        "image": "/foody.png",
+        "url": "https://foody-food-delivery.herokuapp.com/"
+      },
+      {
         "title": "Hoodie Store ",
         "category": "E-commerce Store using react",
         "image": "hoddie.png",
@@ -102,12 +108,6 @@
         "category": "Property mapping web-application using Leaflet, Geoserver",
         "image": "/map.png",
         "url": "not-available"
-      },
-      {
-        "title": "Popolr",
-        "category": "Ecommerce app for grocery and daily needs",
-        "image": "popolr.png",
-        "url": "https://www.popolr.com/"
       }
     ]
   },
