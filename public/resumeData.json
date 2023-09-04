@@ -60,13 +60,13 @@
         "company": "StartWithGenisis",
         "title": "Full Stack Developer",
         "years": "March 2021 - July 2021",
-        "description": "• Worked on Developing and Re-Designing a Full Scale Social Media Application. Improved the loading and response time by 30 percent.Worked on and fixed numerous bugs on the chat server which was built using NodeJs. \n • Developed and maintained various web applications. Guided and Managed numerous Interns and reviewed their code.\n   • Developed a Q&A web application using server side rendering using NextJs.\n    • Developed and implemented unit testing using Jest to ensure high code coverage and early detection of defects. Thisresulted in a 50% reduction in production bugs and increased confidence in software releases"
+        "description": "• Worked on Developing and Re-Designing a Full Scale Social Media Application. Improved the loading and response time by 30 percent.Worked on and fixed numerous bugs on the chat server which was built using NodeJs. <br> • Developed and maintained various web applications. Guided and Managed numerous Interns and reviewed their code.<br>   • Developed a Q&A web application using server side rendering using NextJs.<br>    • Developed and implemented unit testing using Jest to ensure high code coverage and early detection of defects. Thisresulted in a 50% reduction in production bugs and increased confidence in software releases"
       },
       {
         "company": "DataIgnyte Technologies",
         "title": "Web Developer - Intern",
         "years": "April 2020 - January 2021",
-        "description": "• Designed and developed robust web applications and websites using ReactJS, resulting in a 30% increase in user engagement and a 40% reduction in page load times. \n   • Led the optimization efforts of existing applications, implementing code refactoring and performance tuning techniques\n  • Implemented real-time notifications using WebSockets, improving user experience by providing instantaneous updates on critical information."
+        "description": "• Designed and developed robust web applications and websites using ReactJS, resulting in a 30% increase in user engagement and a 40% reduction in page load times. <br>   • Led the optimization efforts of existing applications, implementing code refactoring and performance tuning techniques<br>  • Implemented real-time notifications using WebSockets, improving user experience by providing instantaneous updates on critical information."
       }
     ],
     "skills": [
