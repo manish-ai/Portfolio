@@ -54,33 +54,19 @@
         "company": "Avaamo",
         "title": "Software Development Engineer",
         "years": "August 2021 - Present",
-        "description": "• Successfully built and delivered a high-performance E-Commerce based Progressive Web Application (PWA), catering to a user base of 10,000+ customers, exceeding project expectations and completing the project within tight deadlines. \n
-        • Designed and developed several user-friendly web applications, leveraging the latest tools and technologies to enhance the
-        end-user experience while reducing development time.\n
-        • Boosted development time by taking on both front-end and back-end duties, as necessary. \n
-        • Built and deployed multiple middleware applications to enhance the functionality of chatbots, resulting in a significant
-        increase in customer engagement."
+        "description": ""
       },
       {
         "company": "StartWithGenisis",
         "title": "Full Stack Developer",
         "years": "March 2021 - July 2021",
-        "description": "• Worked on Developing and Re-Designing a Full Scale Social Media Application. Improved the loading and response time
-        by 30 percent.Worked on and fixed numerous bugs on the chat server which was built using NodeJs.
-        • Developed and maintained various web applications. Guided and Managed numerous Interns and reviewed their code.
-        • Developed a Q&A web application using server side rendering using NextJs.
-        • Developed and implemented unit testing using Jest to ensure high code coverage and early detection of defects. This
-        resulted in a 50% reduction in production bugs and increased confidence in software releases"
+        "description": "• Worked on Developing and Re-Designing a Full Scale Social Media Application. Improved the loading and response time by 30 percent.Worked on and fixed numerous bugs on the chat server which was built using NodeJs. \n • Developed and maintained various web applications. Guided and Managed numerous Interns and reviewed their code.\n   • Developed a Q&A web application using server side rendering using NextJs.\n    • Developed and implemented unit testing using Jest to ensure high code coverage and early detection of defects. Thisresulted in a 50% reduction in production bugs and increased confidence in software releases"
       },
       {
         "company": "DataIgnyte Technologies",
         "title": "Web Developer - Intern",
         "years": "April 2020 - January 2021",
-        "description": "• Designed and developed robust web applications and websites using ReactJS, resulting in a 30% increase in user
-        engagement and a 40% reduction in page load times.
-        • Led the optimization efforts of existing applications, implementing code refactoring and performance tuning techniques
-        • Implemented real-time notifications using WebSockets, improving user experience by providing instantaneous updates on
-        critical information."
+        "description": "• Designed and developed robust web applications and websites using ReactJS, resulting in a 30% increase in user engagement and a 40% reduction in page load times. \n   • Led the optimization efforts of existing applications, implementing code refactoring and performance tuning techniques\n  • Implemented real-time notifications using WebSockets, improving user experience by providing instantaneous updates on critical information."
       }
     ],
     "skills": [
